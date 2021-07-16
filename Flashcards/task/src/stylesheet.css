@@ -1,0 +1,70 @@
+/*.box {*/
+/*    background-color: #fff2e6;*/
+/*    color: orange;*/
+/*    border-radius: 5px;*/
+/*    padding: 20px;*/
+/*    font-size: 150%;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*    display: flex;*/
+/*}*/
+
+/*.wrapper {*/
+/*    display: grid;*/
+/*    grid-template-columns: 100px 100px 100px;*/
+/*    grid-gap: 10px;*/
+/*    background-color: #fff;*/
+/*    color: #444;*/
+/*}*/
+
+body{
+    background-image: url("world.png");
+    width: 2441px;
+    height: 1200px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1{
+    color: dimgrey;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.container-item{
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    display: grid;
+    grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+    /*grid-template-columns: 100px 100px 100px;*/
+    grid-gap: 10px;
+    perspective:600px;
+}
+
+.item, .card{
+    background-color: #fff2e6;
+    color: orange;
+    /*border: 4px solid crimson;*/
+    border-radius: 10px;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+
+}
+
+.card {
+    /*position: relative;*/
+    /*text-align: center;*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

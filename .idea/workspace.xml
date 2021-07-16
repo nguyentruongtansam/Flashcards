@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d49ab252-47b1-457a-9632-d2bd536293d0" name="Default Changelist" comment="Update" />
+    <list default="true" id="d49ab252-47b1-457a-9632-d2bd536293d0" name="Default Changelist" comment="Update">
+      <change afterPath="$PROJECT_DIR$/Flashcards/task/samp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/task/samp/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/task/samp/world.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/task/src/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flashcards/task/src/world.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/Design/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/Design/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/Setting up/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/Setting up/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/task/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/task/test/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/test/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -14,17 +36,21 @@
     <option name="directoryName" value="x21dwnxl" />
   </component>
   <component name="ProjectId" id="1vGpHtCFmPpSTb0Lo0lZDj2gPP5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.17.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.17.1" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -32,6 +58,7 @@
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_interpreter_path" value="/opt/homebrew/bin/node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -45,7 +72,10 @@
       <workItem from="1626198198115" duration="38000" />
       <workItem from="1626198248361" duration="23000" />
       <workItem from="1626198361689" duration="20000" />
-      <workItem from="1626233409041" duration="2272000" />
+      <workItem from="1626233409041" duration="2448000" />
+      <workItem from="1626333254499" duration="1648000" />
+      <workItem from="1626361777069" duration="4198000" />
+      <workItem from="1626405724769" duration="4576000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1626246298479</created>
@@ -54,7 +84,28 @@
       <option name="project" value="LOCAL" />
       <updated>1626246298479</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update">
+      <created>1626246328789</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626246328789</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update">
+      <created>1626246359138</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626246359138</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update">
+      <created>1626246479108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626246479108</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,7 +124,12 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update" />
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
