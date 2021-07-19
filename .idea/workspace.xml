@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d49ab252-47b1-457a-9632-d2bd536293d0" name="Default Changelist" comment="Update">
-      <change afterPath="$PROJECT_DIR$/Flashcards/task/samp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flashcards/task/samp/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flashcards/task/samp/world.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flashcards/task/src/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flashcards/task/src/world.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/Design/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/Design/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/Setting up/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/Setting up/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flashcards/task/test/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/task/test/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +62,7 @@
       <workItem from="1626233409041" duration="2448000" />
       <workItem from="1626333254499" duration="1648000" />
       <workItem from="1626361777069" duration="4198000" />
-      <workItem from="1626405724769" duration="4576000" />
+      <workItem from="1626405724769" duration="5290000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1626246298479</created>
@@ -105,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626246479108</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update">
+      <created>1626424343907</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626424343907</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
