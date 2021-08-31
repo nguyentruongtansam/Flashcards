@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d49ab252-47b1-457a-9632-d2bd536293d0" name="Default Changelist" comment="Update">
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to JavaScript/I like JavaScript_/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to JavaScript/I like JavaScript_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to JavaScript/I like JavaScript_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to JavaScript/I like JavaScript_/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to JavaScript/Theory/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to JavaScript/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to JavaScript/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to JavaScript/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to JavaScript/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/Design/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/Design/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flashcards/Design/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Flashcards/Design/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +52,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="14.17.1" />
-    <property name="javascript.nodejs.core.library.typings.version" value="14.17.1" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.5.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.7.8" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -63,6 +80,9 @@
       <workItem from="1626333254499" duration="1648000" />
       <workItem from="1626361777069" duration="4198000" />
       <workItem from="1626405724769" duration="5290000" />
+      <workItem from="1626665837014" duration="132000" />
+      <workItem from="1626693366586" duration="49000" />
+      <workItem from="1630416457230" duration="491000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1626246298479</created>
@@ -99,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626424343907</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update">
+      <created>1626665960298</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626665960298</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

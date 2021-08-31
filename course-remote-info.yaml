@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/384602/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Mon, 19 Jul 2021 03:37:38 UTC
+update_date: Tue, 31 Aug 2021 13:28:07 UTC
 stages:
 - id: 625
   step: 10245
@@ -40,35 +40,43 @@ topics:
     theory_id: 7678
   - title: Connecting CSS to HTML
     theory_id: 7418
+  - title: Basic syntax
+    theory_id: 7722
   - title: HTML attributes id and class
     theory_id: 7527
   - title: The lang attribute
     theory_id: 12212
-  - title: WebStorm
-    theory_id: 9492
-  1:
-  - title: Basic syntax
-    theory_id: 7722
-  - title: CSS Selectors
-    theory_id: 7738
   - title: Comments
     theory_id: 7730
-  - title: Google Fonts
-    theory_id: 7844
-  - title: Colors
-    theory_id: 7973
-  - title: Border
-    theory_id: 8355
   - title: Absolute units
     theory_id: 10605
   - title: Relative units
     theory_id: 10671
-  - title: Width and height
-    theory_id: 8325
   - title: Margin and padding
     theory_id: 8346
-  - title: Background
-    theory_id: 11670
+  - title: Attribute selectors and universal selector
+    theory_id: 12228
+  - title: Code style
+    theory_id: 12446
+  - title: WebStorm
+    theory_id: 9492
+  1:
+  - title: Introduction to UI/UX
+    theory_id: 14603
+  - title: Layout grids
+    theory_id: 14922
+  - title: Interface elements
+    theory_id: 15253
+  - title: Images
+    theory_id: 9237
+  - title: CSS Selectors
+    theory_id: 7738
+  - title: Google Fonts
+    theory_id: 7844
+  - title: Border
+    theory_id: 8355
+  - title: Width and height
+    theory_id: 8325
   - title: Position
     theory_id: 11581
   - title: Positioning Properties
@@ -85,6 +93,10 @@ topics:
     theory_id: 11776
   - title: Axis alignment
     theory_id: 11784
+  - title: Colors
+    theory_id: 7973
+  - title: Background
+    theory_id: 11670
   2:
   - title: HTML forms
     theory_id: 6560
@@ -92,6 +104,8 @@ topics:
     theory_id: 8178
   - title: Pseudo-classes
     theory_id: 9762
+  - title: Introduction to animation
+    theory_id: 10287
   - title: Tables
     theory_id: 10832
   - title: Visibility
@@ -102,3 +116,5 @@ topics:
     theory_id: 12204
   - title: Backface-visibility
     theory_id: 12219
+  - title: Transitions
+    theory_id: 13593
