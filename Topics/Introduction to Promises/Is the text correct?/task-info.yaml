@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    const isCorrectText = true;
+    // write your function here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9986#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 02 Sep 2021 14:26:01 UTC
+record: -1
