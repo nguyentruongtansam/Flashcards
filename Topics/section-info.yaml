@@ -25,3 +25,8 @@ content:
 - Introduction to Promises
 - '"then", "catch" and "finally" methods'
 - Anonymous function
+- Async await
+- Function constructor
+- Template literals
+- ForEach method
+- Slicing

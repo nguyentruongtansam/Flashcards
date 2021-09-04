@@ -4,137 +4,95 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d49ab252-47b1-457a-9632-d2bd536293d0" name="Default Changelist" comment="Update 2021-09-02">
-      <change afterPath="$PROJECT_DIR$/Topics/&quot;then&quot;, &quot;catch&quot; and &quot;finally&quot; methods/Oops! We have a problem/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/&quot;then&quot;, &quot;catch&quot; and &quot;finally&quot; methods/Oops! We have a problem/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/&quot;then&quot;, &quot;catch&quot; and &quot;finally&quot; methods/Oops! We have a problem/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/&quot;then&quot;, &quot;catch&quot; and &quot;finally&quot; methods/Oops! We have a problem/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/&quot;then&quot;, &quot;catch&quot; and &quot;finally&quot; methods/Still loading.../main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/&quot;then&quot;, &quot;catch&quot; and &quot;finally&quot; methods/Still loading.../task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/&quot;then&quot;, &quot;catch&quot; and &quot;finally&quot; methods/Still loading.../task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/&quot;then&quot;, &quot;catch&quot; and &quot;finally&quot; methods/Still loading.../task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/&quot;then&quot;, &quot;catch&quot; and &quot;finally&quot; methods/Theory/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/&quot;then&quot;, &quot;catch&quot; and &quot;finally&quot; methods/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/&quot;then&quot;, &quot;catch&quot; and &quot;finally&quot; methods/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/&quot;then&quot;, &quot;catch&quot; and &quot;finally&quot; methods/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/&quot;then&quot;, &quot;catch&quot; and &quot;finally&quot; methods/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/Even or odd/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/Even or odd/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/Even or odd/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/Even or odd/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/The first occurence/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/The first occurence/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/The first occurence/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/The first occurence/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/The sum of numbers/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/The sum of numbers/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/The sum of numbers/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/The sum of numbers/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/Theory/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Break and continue/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/Fruit/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/Fruit/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/Fruit/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/Fruit/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/The reverse order/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/The reverse order/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/The reverse order/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/The reverse order/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/The sum of numbers/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/The sum of numbers/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/The sum of numbers/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/The sum of numbers/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/Theory/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/For loops/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Failed request/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Failed request/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Failed request/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Failed request/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Is the text correct?/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Is the text correct?/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Is the text correct?/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Is the text correct?/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Math exam/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Math exam/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Math exam/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Math exam/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Theory/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Promises/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Naming variables/Correct variable name/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Naming variables/Correct variable name/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Naming variables/Correct variable name/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Naming variables/Correct variable name/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Naming variables/Theory/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Naming variables/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Naming variables/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Naming variables/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Naming variables/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Scope of variables/Code correction/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Scope of variables/Code correction/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Scope of variables/Code correction/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Scope of variables/Code correction/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Scope of variables/Theory/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Scope of variables/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Scope of variables/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Scope of variables/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Scope of variables/Your own function/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Scope of variables/Your own function/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Scope of variables/Your own function/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Scope of variables/Your own function/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Scope of variables/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/A short history of languages/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/A short history of languages/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/A short history of languages/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/A short history of languages/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/Theory/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/What is your salary?/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/What is your salary?/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/What is your salary?/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/What is your salary?/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/Workdays/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/Workdays/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/Workdays/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/Workdays/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Switch/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/A bus driver/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/A bus driver/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/A bus driver/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/A bus driver/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/A mistake/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/A mistake/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/A mistake/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/A mistake/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/The elevator problem/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/The elevator problem/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/The elevator problem/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/The elevator problem/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/Theory/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/While loops/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/setTimeout and setInterval/Student Alex/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/setTimeout and setInterval/Student Alex/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/setTimeout and setInterval/Student Alex/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/setTimeout and setInterval/Student Alex/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/setTimeout and setInterval/Theory/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/setTimeout and setInterval/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/setTimeout and setInterval/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/setTimeout and setInterval/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/setTimeout and setInterval/lesson-info.yaml" afterDir="false" />
+    <list default="true" id="d49ab252-47b1-457a-9632-d2bd536293d0" name="Default Changelist" comment="Update 2021-09-03">
+      <change afterPath="$PROJECT_DIR$/Topics/Async await/Theory/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Async await/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Async await/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Async await/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Async await/User id/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Async await/User id/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Async await/User id/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Async await/User id/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Async await/We miss him/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Async await/We miss him/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Async await/We miss him/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Async await/We miss him/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Async await/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Solar system/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Solar system/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Solar system/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Solar system/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Theory/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Your favorite music/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Your favorite music/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Your favorite music/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/Your favorite music/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/ForEach method/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Hi! I'm Mike from New York_/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Hi! I'm Mike from New York_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Hi! I'm Mike from New York_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Hi! I'm Mike from New York_/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Let's study birds/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Let's study birds/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Let's study birds/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Let's study birds/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Picking a phone/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Picking a phone/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Picking a phone/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Picking a phone/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Student directory/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Student directory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Student directory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Student directory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Theory/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Function constructor/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/Email/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/Email/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/Email/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/Email/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/The first elements/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/The first elements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/The first elements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/The first elements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/The last elements/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/The last elements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/The last elements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/The last elements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/Theory/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Slicing/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/All or nothing/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/All or nothing/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/All or nothing/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/All or nothing/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Errors, errors, errors/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Errors, errors, errors/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Errors, errors, errors/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Errors, errors, errors/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Prize place/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Prize place/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Prize place/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Prize place/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Refactoring/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Refactoring/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Refactoring/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Refactoring/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Theory/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Template literals/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Anonymous function/Settings/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Anonymous function/Settings/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Anonymous function/Settings/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Anonymous function/Settings/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
@@ -183,20 +141,20 @@
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.main.js (4)">
-    <configuration name="main.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Topics/setTimeout and setInterval/Theory/main.js" working-dir="$PROJECT_DIR$/Topics/setTimeout and setInterval/Theory">
+  <component name="RunManager" selected="Node.js.main.js (5)">
+    <configuration name="main.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Topics/Template literals/Refactoring/main.js" working-dir="$PROJECT_DIR$/Topics/Template literals/Refactoring">
       <method v="2" />
     </configuration>
-    <configuration name="main.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Topics/Introduction to Promises/Is the text correct?/main.js" working-dir="$PROJECT_DIR$/Topics/Introduction to Promises/Is the text correct?">
+    <configuration name="main.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Topics/Template literals/Errors, errors, errors/main.js" working-dir="$PROJECT_DIR$/Topics/Template literals/Errors, errors, errors">
       <method v="2" />
     </configuration>
-    <configuration name="main.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Topics/Introduction to Promises/Theory/main.js" working-dir="$PROJECT_DIR$/Topics/Introduction to Promises/Theory">
+    <configuration name="main.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Topics/Template literals/All or nothing/main.js" working-dir="$PROJECT_DIR$/Topics/Template literals/All or nothing">
       <method v="2" />
     </configuration>
-    <configuration name="main.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Topics/&quot;then&quot;, &quot;catch&quot; and &quot;finally&quot; methods/Theory/main.js" working-dir="$PROJECT_DIR$/Topics/&quot;then&quot;, &quot;catch&quot; and &quot;finally&quot; methods/Theory">
+    <configuration name="main.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Topics/ForEach method/Solar system/main.js" working-dir="$PROJECT_DIR$/Topics/ForEach method/Solar system">
       <method v="2" />
     </configuration>
-    <configuration name="main.js (6)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Topics/setTimeout and setInterval/Student Alex/main.js" working-dir="$PROJECT_DIR$/Topics/setTimeout and setInterval/Student Alex">
+    <configuration name="main.js (5)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Topics/Slicing/Email/main.js" working-dir="$PROJECT_DIR$/Topics/Slicing/Email">
       <method v="2" />
     </configuration>
     <configuration name="main.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="Topics/Introduction to JavaScript/I like JavaScript_/main.js" working-dir="$PROJECT_DIR$">
@@ -204,19 +162,19 @@
     </configuration>
     <list>
       <item itemvalue="Node.js.main.js" />
-      <item itemvalue="Node.js.main.js (6)" />
       <item itemvalue="Node.js.main.js (1)" />
       <item itemvalue="Node.js.main.js (2)" />
       <item itemvalue="Node.js.main.js (3)" />
       <item itemvalue="Node.js.main.js (4)" />
+      <item itemvalue="Node.js.main.js (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main.js (5)" />
         <item itemvalue="Node.js.main.js (4)" />
         <item itemvalue="Node.js.main.js (3)" />
         <item itemvalue="Node.js.main.js (2)" />
         <item itemvalue="Node.js.main.js (1)" />
-        <item itemvalue="Node.js.main.js (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +202,9 @@
       <workItem from="1630423986924" duration="16959000" />
       <workItem from="1630508335842" duration="23000" />
       <workItem from="1630508662654" duration="106000" />
-      <workItem from="1630549821731" duration="22336000" />
+      <workItem from="1630549821731" duration="25215000" />
+      <workItem from="1630674213342" duration="6188000" />
+      <workItem from="1630726079417" duration="3877000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1626246298479</created>
@@ -302,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630550355897</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update 2021-09-03">
+      <created>1630648054912</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1630648054912</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,7 +292,8 @@
     <MESSAGE value="Update" />
     <MESSAGE value="Update 2021-08-21" />
     <MESSAGE value="Update 2021-09-02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 2021-09-02" />
+    <MESSAGE value="Update 2021-09-03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 2021-09-03" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
